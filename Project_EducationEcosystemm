@@ -21,14 +21,14 @@ Please provide the following:
 - An indication of how your project relates to / integrates into the Mintbase / NEAR ecosystem.
 - An indication of why your team is interested in creating this project.
 
-Our goal is to build 50 educational projects associated with the Mintbase blockchain to train 350,000 developers from Education Ecosystem. These educational projects will not only introduce developers to Mintbase but they will also start using Mintbase in their projects. Projects related to:
+Our goal is to build real products associated with the Mintbase blockchain. These products will be created by experienced developers (average 5 yrs experience). Each project comes with complete recorded videos and source code. We have developers on our website and the proposal selected will suggest how many developers will get exposed to these projects thi will increase the community of Mintbase ecosystem. 
 
+Projects related to:
 Deploy custom marketplace 
 Minbase templates, SDK 
 Deploy e-commerce store and mint NFTs - Mintbase API
 Decentralized platform that offers collateral-free NFT rentals 
 Deploy Smart Contract with Mintbase JS
-Sell any NFT on NEAR by - markets in metaverses
 
 
 Example projects
@@ -55,19 +55,24 @@ Mobile App developers
 
 ### Project Details
 
-Deck: https://drive.google.com/file/d/1WNIAYS_0WnK7JDM_S6mBMk892RlO_E3D/view?usp=sharing
+We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-
+- Mockups/designs of any UI components
+- Data models / API specifications of the core functionality
+- An overview of the technology stack to be used
+- Documentation of core components, protocols, architecture, etc. to be deployed
+- PoC/MVP or other relevant prior work or research on the topic
+- What your project is _not_ or will _not_ provide or implement
+  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 ### Ecosystem Fit
 
 Help us locate your project in the Mintbase landscape and what problems it tries to solve by answering each of these questions:
 
 - Where and how does your project fit into the ecosystem?
-This work will expose a huge number of developers to the Mintbase. Our 350k devs will get exposure to Mintbase and will build products on top of Mintbase to showcase its capabilities.
+This work will bring a number of developers to Mintbase. Depending upon the selected proposal number of devs who will  get exposure to Mintbase will be decided and they will build products on top of Mintbase to showcase its capabilities.
 
 - Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
-We already have a community of 350,000 developers and we will use these 50 projects to train them on Mintbase.
-
+We already have a community of developers, depending on the type of proposal selected number of dev will get exposed to Minbase ecosystem.
 - What need(s) does your project meet?
 We already have a competent team as well as we have our  website: https://educationecosystem.com/
 - Are there any other projects similar to yours in the Mintbase / NEAR ecosystem?
@@ -92,8 +97,8 @@ Muhammad Shoaib  - COO
 
 ### Legal Structure
 
-- **Registered Address:** Livecoding Ltd, 20-22, Wenlock Road, London, N17GU 
-- **Registered Legal Entity:** UK legal entity number: 09346459
+- **Registered Address:** Address of your registered legal entity, if available. Livecoding Ltd, 20-22, Wenlock Road, London, N17GU 
+- **Registered Legal Entity:** Name of your registered legal entity, if available. UK legal entity number: 09346459
 
 ### Team's experience
 Michael J. Garbade is a serial entrepreneur, hybrid business executive and Python engineer who enjoys building applications in Python, Django, and Sencha Touch. 
@@ -104,63 +109,111 @@ Muhammad Shoaib leads the content creation team at Education Ecosystem (COO). He
 
 If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
 N/A
-
-If anyone on your team has applied for a grant at the Mintbase previously, please list the name of the project and legal entity here.
-N/A
-
 ### Team Code Repos
+
 N/A
 
 Please also provide the GitHub accounts of all team members. If they contain no activity, references to projects hosted elsewhere or live are also fine.
+
 N/A
 
-
 ### Team LinkedIn Profiles (if available)
+
 Michael J. Garbade  - CEO 
 https://www.linkedin.com/in/garbade/
-
 
 ## Development Status :open_book:
 
 If you've already started implementing your project or it is part of a larger repository, please provide a link and a description of the code here. In any case, please provide some documentation on the research and other work you have conducted before applying. This could be:
+
+- links to improvement proposals or [RFPs](https://github.com/mintbase/Grants-Program/tree/master/rfp-proposal) (requests for proposal),
+- academic publications relevant to the problem,
+- links to your research diary, blog posts, articles, forum discussions or open GitHub issues,
+- references to conversations you might have had related to this project with anyone from the Mintbase Foundation,
+- previous interface iterations, such as mock-ups and wireframes.
 We have our website: https://educationecosystem.com/
 
 ## Development Roadmap :nut_and_bolt:
-We will specify the specific details later after a call with the team. 
-Depending on the size of grant:
-Phase 1: 5000 developers
-Phase 2 5000 developers
-Phase 3: To be decided
+
 
 Budget distribution:
-40% on content creation
-40% on content training and distribution
-20% on Marketing
+
+Proposal 1 ($25k)
 
 
-Below we provide an **example roadmap**. 
-Depending on the size of the grant in 3 months these 50 projects will be completed.
+Milestone 1: 7 projects
+$12k
+Airdrop rewards
+$2.5k: airdrop rewards
+Competition rewards
+$2.5k competition reward
+Exposure to 2000 developers
+$6k ( $3 per developer)
+
+
+
+
+
+
+
+
+Proposal 2 ($40k)
+
+
+Milestone 1: 5 projects
+$10k
+Milestone 2: 5 projects
+$10k
+Airdrop rewards
+$5k: airdrop rewards
+Competition rewards
+$5k competition reward
+Exposure to 5000 developers
+$10k ( $2 per developer)
+
+
+
+
+
+
+Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Mintbase. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month.
+Depending on the size of the grant in 3-6 these 50 projects will be completed.
+
+For each milestone,
+
+- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
+- include the amount of funding requested _per milestone_.
+- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
+- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
+- commit to providing Dockerfiles for the delivery of your project.
+- indicate milestone duration as well as number of full-time employees working on each milestone.
+- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
+
+> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
 ### Overview
 
-- **Total Estimated Duration:** Depending on the size of the grant in 3-6 these 50 projects will be completed.
-- **Full-Time Equivalent (FTE):**  10 FTE
-- **Total Costs:** 25,000 USD
+- **Total Estimated Duration:** Will be produced once the type of proposal is selected.
+- **Full-Time Equivalent (FTE):**  3 FTE
+- **Total Costs:** 25,000 - 50,000 USD depending on the proposal
 
-### Milestone 1 
-TBD
+### Milestone 1 Example — Implement Mintbase Modules
 
+Will be provided once the type of proposal is selected.
+
+
+...
 ## Future Plans
 The projects will be made publicly available on Education Ecosystem, Youtube, Github and Gitlab.
+
+
+Please include here
+
+The projects will be made publicly available on Education Ecosystem, Youtube, Github and Gitlab.
+
 
 
 ## Additional Information :heavy_plus_sign:
 
 **How did you hear about the Grants Program?** Mintbase Website 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
-Deck: https://drive.google.com/file/d/1WNIAYS_0WnK7JDM_S6mBMk892RlO_E3D/view?usp=sharing
-
-
-
-
-
